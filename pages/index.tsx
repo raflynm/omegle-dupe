@@ -300,9 +300,6 @@ export default function Home() {
             <button onClick={handleStartChattingClicked}>Start Chatting</button>
           </>
         )}
-        <a href="https://raflynm.github.io/MysMingQuiz/">
-          Visit Quiz
-        </a>
       </main>
     </>
   );
